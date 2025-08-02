@@ -97428,7 +97428,7 @@ B.d.a3(q,n.gfV(n).ej(0,new A.alQ(l,j),t.y_).fn(0))}if(l.x.length===0){n=i.z
 if(n==null)n=k
 else{m=j.db.a
 m=n.bz(A.U(153,m>>>16&255,m>>>8&255,m&255))
-n=m}q.push(A.fL(new A.bQ(B.fO,A.bS("\u05d0\u05d9\u05df \u05ea\u05d0\u05e8\u05d9\u05db\u05d9\u05dd \u05d7\u05e9\u05d5\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd.",k,k,k,n,k,k),k),k,k))}h=A.aMH(A.ev(A.a([p,B.lr,s,B.lr,r,B.Ax,o,B.Ax,A.tu(A.ev(q,B.bV,B.W,B.aj),B.G),B.lr],h),B.ab,B.W,B.aj),B.Gg)}return new A.Cg(new A.xI(B.a05,g,new A.W2(k,k,1/0,56),k),h,k)}}
+n=m}q.push(A.fL(new A.bQ(B.fO,A.bS("\u05d0\u05d9\u05df \u05ea\u05d0\u05e8\u05d9\u05db\u05d9\u05dd \u05d7\u05e9\u05d5\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd.",k,k,k,n,k,k),k),k,k))}h=A.aMH(A.ev(A.a([p,B.lr,s,B.lr,r,B.Ax,o,B.Ax,A.tu(A.ev(q,B.bV,B.W,B.aj),B.G),B.lr],h),B.ab,B.W,B.aj),B.Gg)}return new A.Cg(new A.xI(B.a04,g,new A.W2(k,k,1/0,56),k),h,k)}}
 A.alq.prototype={
 $1(a){var s=null,r=this.b,q=A.De(!0,B.bH,!0,s,!0,B.H,s,A.a_I(),r,s,s,s,s,s,2,B.HF,B.ac,!0,s,!0,s,!1,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,!1,s,!0,s,B.dh,s,s,B.bD,B.bu,s,s,s,s,s,s,s,B.aX,s,B.dL,s,s,s,s)
 return A.a0d(A.a([A.qY(B.id,new A.alo(a),s),A.a4f(!1,B.AU,B.r,s,s,s,s,s,new A.alp(this.a,r,a,this.c),s,s)],t.D),q,B.AW)},
@@ -97453,7 +97453,7 @@ s=3
 break
 case 4:n=n.ae(t.Q)
 n.toString
-n.f.jS(A.jc(null,null,null,q.d.at,null,B.H,null,B.a04,null,B.bw,null,null,null,null,null,null,null,null,null))
+n.f.jS(A.jc(null,null,null,q.d.at,null,B.H,null,B.a05,null,B.bw,null,null,null,null,null,null,null,null,null))
 case 3:return A.P(null,r)}})
 return A.Q($async$$0,r)},
 $S:7}
@@ -104183,10 +104183,10 @@ B.a01=new A.eH("\u05e9\u05de\u05d5\u05e8",null,null,null,null,null,null,null,nul
 B.AV=new A.eH("\u05d4\u05d5\u05e1\u05e3 \u05de\u05e9\u05d9\u05de\u05d4 \u05d7\u05d5\u05d3\u05e9\u05d9\u05ea",null,null,null,null,null,null,null,null)
 B.a02=new A.eH("\u05e2\u05e8\u05d5\u05da \u05e7\u05d9\u05e9\u05d5\u05e8\u05d9 \u05e9\u05d9\u05e8",null,null,null,null,null,null,null,null)
 B.a03=new A.eH("Spotify",null,null,null,null,null,null,null,null)
+B.a04=new A.eH("Pisho-NET",null,null,null,null,null,null,null,null)
 B.AW=new A.eH("\u05d4\u05d5\u05e1\u05e3 \u05e6\u05d9\u05d5\u05d3 \u05dc\u05d0\u05e4\u05d8\u05e8",null,null,null,null,null,null,null,null)
-B.a04=new A.eH("\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05e4\u05e8\u05d9\u05d8 \u05e6\u05d9\u05d5\u05d3.",null,null,null,null,null,null,null,null)
+B.a05=new A.eH("\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05e4\u05e8\u05d9\u05d8 \u05e6\u05d9\u05d5\u05d3.",null,null,null,null,null,null,null,null)
 B.id=new A.eH("\u05d1\u05d9\u05d8\u05d5\u05dc",null,null,null,null,null,null,null,null)
-B.a05=new A.eH("Pisho's website",null,null,null,null,null,null,null,null)
 B.a06=new A.eH("\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05de\u05e9\u05d9\u05de\u05d4.",null,null,null,null,null,null,null,null)
 B.a07=new A.eH("Apple Music",null,null,null,null,null,null,null,null)
 B.a3Z=new A.agk(0,"system")
